@@ -1,2 +1,2 @@
 # bank-marketing-ml-project
-machine learning project: classification problems using logistic regression, knn, decision tree and random forest.
+Machine Learning Project: Classification problems using logistic regression, knn, decision tree and random forest.
